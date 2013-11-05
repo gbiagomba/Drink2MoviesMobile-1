@@ -26,4 +26,19 @@
       <rule>Clint gets his dick wet.</rule>
     </finish>
   </show>
+  <show>
+    <title>Blue Mountain State</title>
+    <drink>
+      <rule>okay</rule>
+    </drink>
+    <twodrinks>
+      <rule>2 drinks</rule>
+    </twodrinks>
+    <gulp>
+      <rule>gLARP</rule>
+    </gulp>
+    <finish>
+      <rule>finish test</rule>
+    </finish>
+  </show>
 </shows>
