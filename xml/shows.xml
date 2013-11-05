@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<shows>
+  <show>
+    <title>AMC Clint Eastwood Marathon</title>
+    <drink>
+      <rule>Clint says a one-liner.</rule>
+      <rule>Clint is squinting (extra drink if it's into the sunset).</rule>
+      <rule>Clint is riding a horse.</rule>
+      <rule>For each scene of a vast desert or mountain range.</rule>
+      <rule>There's a horribly out of place ricochet sound.</rule>
+    </drink>
+    <twodrinks>
+      <rule>Clint speaks with a cigar in his mouth (once per scene).</rule>
+      <rule>Clint fires a revolver by using the hammer instead of the trigger.</rule>
+      <rule>Someone falls through or smashes through something.</rule>
+      <rule>Someone gets shot.</rule>
+    </twodrinks>
+    <gulp>
+      <rule>Clint is drinking liquor straight from the bottle.</rule>
+      <rule>Clint lights up a cigar.</rule>
+      <rule>Clint says a famous line (Ex. "Do you feel lucky?").</rule>
+      <rule>Clint is a total badass.</rule>
+    </gulp>
+    <finish>
+      <rule>Clint gets his dick wet.</rule>
+    </finish>
+  </show>
+</shows>
